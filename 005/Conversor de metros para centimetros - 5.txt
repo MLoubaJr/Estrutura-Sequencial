@@ -1,0 +1,14 @@
+programa {
+	funcao inicio() {
+		
+			 real metros
+	         real Cm
+
+        escreva("Digite a quantidade de metros: ")
+	    leia(metros)
+
+	    Cm = metros*100
+
+	    escreva("A quantia convertida é: ", Cm)
+	}
+}

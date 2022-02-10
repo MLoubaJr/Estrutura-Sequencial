@@ -1,0 +1,31 @@
+programa {
+	funcao inicio() {
+		
+	     real n1
+	     real n2
+	     real n3
+	     real n4
+	     real media
+
+
+	    escreva("digite a nota: ")
+	    leia(n1)
+
+
+	    escreva("digite a nota: ")
+	    leia(n2)
+
+
+	    escreva("digite a nota: ")
+	    leia(n3)
+
+
+	    escreva("digite a nota: ")
+    	leia(n4)
+
+	    media = (n1+n2+n3+n4)/4
+
+
+	    escreva("A média das notas é: ", media)
+	}
+}

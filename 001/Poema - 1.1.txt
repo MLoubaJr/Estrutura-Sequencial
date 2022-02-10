@@ -1,0 +1,12 @@
+programa {
+	funcao inicio() {
+	    
+		escreva("Poema Gandhi", "\n")
+	    escreva("Com o silêncio, encontramos a paz e o amor incondicional vem com toda a força transformadora.", "\n")
+	    escreva("O amor é a força mais sutil do mundo.", "\n")
+	    escreva("O mundo está farto de ódio.", "\n")
+	    escreva("É é este ódio irracional e distante da força criadora que destrói, corrompe e ensurdece a humanidade.", "\n")
+	    escreva("Mahatma Gandhi", "\n")
+
+	}
+}
