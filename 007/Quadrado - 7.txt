@@ -11,7 +11,7 @@ programa {
     result= (lado*lado)
     result2= (lado*lado)*2
 
-    escreva("A área do quadrado é: ", result, "\n")
-    escreva("A área do quadrado ao dobro é: ", result2)
+    escreva("A ï¿½rea do quadrado ï¿½: ", result, "\n")
+    escreva("A ï¿½rea do quadrado ao dobro ï¿½: ", result2)
 	}
 }
