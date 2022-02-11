@@ -2,13 +2,13 @@ programa {
 	funcao inicio() {
 		
 			 real metros
-	         real Cm
+	         real cm
 
         escreva("Digite a quantidade de metros: ")
 	    leia(metros)
 
 	    Cm = metros*100
 
-	    escreva("A quantia convertida é: ", Cm)
+	    escreva("A quantia convertida ï¿½: ", cm)
 	}
 }
